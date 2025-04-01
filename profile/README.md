@@ -14,11 +14,11 @@
 Our dedicated team develops advanced tools to <strong>spoof your hardware ID (HWID)</strong>, allowing you to bypass hardware bans in Activision games effortlessly. Games include Call of Duty: Warzone, Modern Warfare, Vanguard, and more. Our tools are open-source, community-supported, and updated regularly to ensure your return to gameplay safely and undetected.</p>
 
 <h3>🔍 Understanding Activision Bans</h3>
-<p>Activision employs HWID bans, especially via their RICOCHET anti-cheat, to prevent banned users from simply creating new accounts. Once banned, your hardware becomes flagged, making appeals often ineffective. Our HWID Spoofer masks your computer’s unique hardware identifiers, providing you with a fresh start and bypassing Activision's stringent detection.</p>
+<p>Activision employs <a href="https://github.com/How-to-bypass-HWID-Hardware-ban" target="_blank">HWID bans</a>, especially via their RICOCHET anti-cheat, to prevent banned users from simply creating new accounts. Once banned, your hardware becomes flagged, making appeals often ineffective. Our HWID Spoofer masks your computer’s unique hardware identifiers, providing you with a fresh start and bypassing Activision's stringent detection.</p>
 
 <h3>🔧 What We Offer</h3>
 <ul>
-  <li><strong>Activision-specific HWID Spoofer:</strong> Designed specifically to evade RICOCHET and other Activision anti-cheats.</li>
+  <li><strong>Activision-specific <a href="https://sourceforge.net/projects/hwid-spoofer-free/" target="_blank">HWID Spoofer</a>:</strong> Designed specifically to evade RICOCHET and other Activision anti-cheats.</li>
   <li><strong>Easy-to-follow Guides:</strong> Step-by-step instructions and detailed video tutorials to help you spoof quickly and safely.</li>
   <li><strong>Free and Transparent:</strong> Completely free solution without hidden fees or paywalls.</li>
   <li><strong>Frequent Updates:</strong> Regular updates to counteract anti-cheat system improvements.</li>
@@ -51,6 +51,7 @@ Our dedicated team develops advanced tools to <strong>spoof your hardware ID (HW
 
 <hr />
 
+
 <h3>🎥 Need Help Getting Started?</h3>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=b8XyEwxpccE" target="_blank">
@@ -63,7 +64,7 @@ Our dedicated team develops advanced tools to <strong>spoof your hardware ID (HW
 <h3>📌 Frequently Asked Questions (FAQs)</h3>
 
 <h4>What is an Activision HWID Ban?</h4>
-<p>Activision HWID bans permanently identify and restrict your hardware, making new accounts ineffective without spoofing.</p>
+<p>Activision <a href="https://github.com/HWID-Ban" target="_blank">HWID bans</a> permanently identify and restrict your hardware, making new accounts ineffective without spoofing.</p>
 
 <h4>Is HWID spoofing legal?</h4>
 <p>While spoofing hardware IDs itself isn't illegal, it is against Activision’s terms of service. Use at your discretion.</p>
