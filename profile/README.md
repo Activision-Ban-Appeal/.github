@@ -10,7 +10,7 @@
 <hr />
 
 <h3>👋 Welcome to Activision Ban Appeal Guide</h3>
-<p>If your Activision ban appeal was denied and you can't access your favorite Activision games, we're here to help.<br>
+<p>If your <a href="https://github.com/Call-of-Duty-Shadowban-COD-Activision" target="_blank">Activision shadowban</a> or ban appeal was denied and you can't access your favorite Activision games, we're here to help.<br>
 Our dedicated team develops advanced tools to <strong>spoof your hardware ID (HWID)</strong>, allowing you to bypass hardware bans in Activision games effortlessly. Games include Call of Duty: Warzone, Modern Warfare, Vanguard, and more. Our tools are open-source, community-supported, and updated regularly to ensure your return to gameplay safely and undetected.</p>
 
 <h3>🔍 Understanding Activision Bans</h3>
